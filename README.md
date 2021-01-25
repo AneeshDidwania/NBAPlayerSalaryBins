@@ -1,7 +1,5 @@
 **Predictions of NBA Players&#39; Salaries Using Random Forest Classification**
 
-Didwania, Aneesh
-
 **Abstract**
 
 This paper analyzes my methods for predicting an NBA player&#39;s salary bin through various scikit-learn packages. It goes through multiple data cleaning methods and feature extractions to find the best way to predict what 20th percentile salary bin a player would fall into. The features that I selected made a Random Forest Classifier give the best model with a test accuracy of about 50%.
